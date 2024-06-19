@@ -1,0 +1,238 @@
+{
+  "categories": [
+    {
+      "name": "Owoce",
+      "icon": "./src/assets/categories/harvest.png",
+      "selectedIcon": "./src/assets/categories/milk-selected.png"
+    },
+    {
+      "name": "Warzywa",
+      "icon": "./src/assets/categories/vegetable.png",
+      "selectedIcon": "./src/assets/categories/milk-selected.png"
+    },
+    {
+      "name": "Mięso",
+      "icon": "./src/assets/categories/meat.png",
+      "selectedIcon": "./src/assets/categories/milk-selected.png"
+    },
+    {
+      "name": "Nabiał",
+      "icon": "./src/assets/categories/milk.png",
+      "selectedIcon": "./src/assets/categories/milk-selected.png"
+    },
+    {
+      "name": "Zboże",
+      "icon": "./src/assets/categories/cereals.png",
+      "selectedIcon": "./src/assets/categories/milk-selected.png"
+    },
+    {
+      "name": "Napoje",
+      "icon": "./src/assets/categories/drink.png",
+      "selectedIcon": "./src/assets/categories/milk-selected.png"
+    },
+    {
+      "name": "Słodycze",
+      "icon": "./src/assets/categories/sweets.png",
+      "selectedIcon": "./src/assets/categories/milk-selected.png"
+    }
+  ],
+
+  "products": [
+    {
+      "category": "Owoce",
+      "rating": 5,
+      "price": 4.99,
+      "unit": "1 kg",
+      "quantity": 0,
+      "stocked": true,
+      "name": "Banan Premium",
+      "img": "./src/assets/products/banana.jpg"
+    },
+    {
+      "category": "Owoce",
+      "rating": 3,
+      "price": 6.49,
+      "unit": "1 kg",
+      "quantity": 0,
+      "stocked": true,
+      "name": "Jabłko Gala",
+      "img": "./src/assets/products/apple.jpg"
+    },
+    {
+      "category": "Owoce",
+      "rating": 4,
+      "price": 3.99,
+      "unit": "1 kg",
+      "quantity": 0,
+      "stocked": true,
+      "name": "Pomarańcza",
+      "img": "./src/assets/products/orange.jpg"
+    },
+
+    {
+      "category": "Warzywa",
+      "rating": 2,
+      "price": 2.99,
+      "unit": "1 kg",
+      "quantity": 0,
+      "stocked": true,
+      "name": "Pomidor",
+      "img": "./src/assets/products/tomato.jpg"
+    },
+    {
+      "category": "Warzywa",
+      "rating": 4,
+      "price": 2.49,
+      "unit": "1 kg",
+      "quantity": 0,
+      "stocked": true,
+      "name": "Ogórek",
+      "img": "./src/assets/products/cucumber.jpg"
+    },
+    {
+      "category": "Warzywa",
+      "rating": 4,
+      "price": 2.49,
+      "unit": "1 kg",
+      "quantity": 0,
+      "stocked": true,
+      "name": "Marchewka",
+      "img": "./src/assets/products/carrot.jpg"
+    },
+
+    {
+      "category": "Mięso",
+      "rating": 2,
+      "price": 24.99,
+      "unit": "1 kg",
+      "quantity": 0,
+      "stocked": true,
+      "name": "Kurczak filet",
+      "img": "./src/assets/products/chicken.jpg"
+    },
+    {
+      "category": "Mięso",
+      "rating": 4,
+      "price": 42.99,
+      "unit": "1 kg",
+      "quantity": 0,
+      "stocked": true,
+      "name": "Wołowina",
+      "img": "./src/assets/products/beef.jpg"
+    },
+    {
+      "category": "Mięso",
+      "rating": 5,
+      "price": 29.99,
+      "unit": "1 kg",
+      "quantity": 0,
+      "stocked": true,
+      "name": "Wieprzowina",
+      "img": "./src/assets/products/pork.jpg"
+    },
+
+    {
+      "category": "Nabiał",
+      "rating": 3,
+      "price": 3.99,
+      "unit": "1 l",
+      "quantity": 0,
+      "stocked": true,
+      "name": "Mleko",
+      "img": "./src/assets/products/milk.jpg"
+    },
+    {
+      "category": "Nabiał",
+      "rating": 4,
+      "price": 4.49,
+      "unit": "200 g",
+      "quantity": 0,
+      "stocked": true,
+      "name": "Ser żółty",
+      "img": "./src/assets/products/cheese.jpg"
+    },
+    {
+      "category": "Nabiał",
+      "rating": 5,
+      "price": 2.99,
+      "unit": "150 g",
+      "quantity": 0,
+      "stocked": true,
+      "name": "Jogurt naturalny",
+      "img": "./src/assets/products/yogurt.jpg"
+    },
+
+    {
+      "category": "Zboże",
+      "rating": 4,
+      "price": 5.99,
+      "unit": "500 g",
+      "quantity": 0,
+      "stocked": true,
+      "name": "Chleb pełnoziarnisty",
+      "img": "./src/assets/products/bread.png"
+    },
+    {
+      "category": "Zboże",
+      "rating": 5,
+      "price": 3.99,
+      "unit": "500 g",
+      "quantity": 0,
+      "stocked": true,
+      "name": "Płatki",
+      "img": "./src/assets/products/cereals.jpg"
+    },
+    {
+      "category": "Zboże",
+      "rating": 3,
+      "price": 4.49,
+      "unit": "1 kg",
+      "quantity": 0,
+      "stocked": true,
+      "name": "Ryż",
+      "img": "./src/assets/products/rice.jpg"
+    },
+
+    {
+      "category": "Napoje",
+      "rating": 4,
+      "price": 4.49,
+      "unit": "1 l",
+      "quantity": 0,
+      "stocked": true,
+      "name": "Sok pomarańczowy",
+      "img": "./src/assets/products/orange_juice.jpg"
+    },
+
+    {
+      "category": "Słodycze",
+      "rating": 3,
+      "price": 2.49,
+      "unit": "100 g",
+      "quantity": 0,
+      "stocked": true,
+      "name": "Czekolada mleczna",
+      "img": "./src/assets/products/chocolate.jpg"
+    },
+    {
+      "category": "Słodycze",
+      "rating": 4,
+      "price": 3.99,
+      "unit": "200 g",
+      "quantity": 0,
+      "stocked": true,
+      "name": "Ciastka",
+      "img": "./src/assets/products/cookies.jpg"
+    },
+    {
+      "category": "Słodycze",
+      "rating": 1,
+      "price": 1.99,
+      "unit": "50 g",
+      "quantity": 0,
+      "stocked": true,
+      "name": "Batonik",
+      "img": "./src/assets/products/bar.jpg"
+    }
+  ]
+}
